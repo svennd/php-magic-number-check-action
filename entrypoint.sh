@@ -1,4 +1,4 @@
 #!/bin/sh -l
 
-phpmnd .
+phpmnd application
 exit $?
