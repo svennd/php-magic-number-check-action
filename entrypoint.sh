@@ -1,4 +1,4 @@
 #!/bin/sh -l
 
-phpmnd application
+phpmnd . --exclude-path system
 exit $?
